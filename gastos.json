@@ -1,0 +1,10 @@
+{
+  "gastos": [
+    {
+      "userId": "0bf77d",
+      "nombre": "Owen Ginnish",
+      "descripcion": "Articulos de limpieza",
+      "monto": 15000
+    }
+  ]
+}
